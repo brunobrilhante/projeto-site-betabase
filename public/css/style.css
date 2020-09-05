@@ -1,0 +1,29 @@
+*{margin: 0; padding: 0;}
+nav{
+	background-color: #222;	
+	min-height: 90px;		
+}
+footer{
+	background-color: #222;
+	padding: 40px;
+	min-height: 180px;	
+}
+footer a{
+
+}
+.link_menu a{
+	color: #9bbd46;
+	padding: 10px;
+	margin: 10px;
+}
+.link_menu a:hover{
+	background-color: #9bbd46;
+	color: #111;
+}
+.lista_footer{
+	margin-top: 15px;
+}
+#main{	
+	background: linear-gradient(to right, #33b3ae, #1e7f9f);	
+	padding: 50px;
+}
